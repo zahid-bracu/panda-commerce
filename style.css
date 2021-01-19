@@ -1,5 +1,7 @@
+ 
+
 .carousel-item{
-    background-color: #fceae8;;
+    background-color: #fceae8;
 }
 
 .box{
@@ -17,12 +19,9 @@
     margin: 15px 0px;
 }
 
-.slider{
-    margin: 40px 0px;
-}
+ 
 
 .button
-
 .price{
     color: #ff136f;
     font-weight: 650;
