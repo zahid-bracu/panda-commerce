@@ -1,4 +1,6 @@
- 
+*{
+    font-weight: ;
+} 
 
 .carousel-item{
     background-color: #fceae8;
@@ -72,4 +74,18 @@ footer{
 .copyright{
     background-color:#fceae8 ;
     text-align: center;
+}
+
+.card:hover{
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
+}
+
+
+.cat1:hover, .cat2:hover, .cat3:hover{
+    position: relative;
+    bottom: 5px;
+    box-shadow: 5px 5px 10px  rgb(150, 150, 150);
+    cursor: pointer;
 }
